@@ -1,5 +1,5 @@
 # neverlose
-![CS2 Cheat Preview](![17475129395538307601264577172233](https://github.com/user-attachments/assets/f491b0a9-3a32-4409-b4bb-ecec5aea1606)
+![17475129395538307601264577172233](https://github.com/user-attachments/assets/f491b0a9-3a32-4409-b4bb-ecec5aea1606)
 ## 🔥 Features  
 - **Aimbot** - Smart targeting with customizable FOV and smoothness  
 - **Triggerbot** - Auto-fire when crosshair is on target  
